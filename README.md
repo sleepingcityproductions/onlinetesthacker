@@ -32,4 +32,4 @@ The whole thing fits together into 18 lines of Python code.
 
 And just in case you are still puzzled what the correct result is, here it is!
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=3&space;\square&space;5&space;\square&space;7&space;\square&space;6&space;\square&space;9&space;=&space;62" target="_blank"><img src="https://latex.codecogs.com/gif.latex?3&space;*&space;5&space;-&space;7&space;+&space;6&space;*&space;9&space;=&space;62" title="3 \square 5 \square 7 \square 6 \square 9 = 62" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=3&space;\square&space;5&space;\square&space;7&space;\square&space;6&space;\square&space;9&space;=&space;62" target="_blank"><img src="https://latex.codecogs.com/gif.latex?3&space;*&space;5&space;-&space;7&space;+&space;6&space;*&space;9&space;=&space;62" title="3 * 5 - 7 + 6 * 9 = 62" /></a>
